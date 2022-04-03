@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/name">
+        <file>name.txt</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>background.jpg</file>
+        <file>background2.jpg</file>
+        <file>Icon1.jpg</file>
+        <file>Icon2.jpg</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>李佳龙Jog - 好运来（吉他弹唱）.wav</file>
+    </qresource>
+</RCC>
